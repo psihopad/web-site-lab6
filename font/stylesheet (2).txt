@@ -1,0 +1,41 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-icons8-___-__-_____-50 {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -5px;
+}
+
+.sprite-icons8-facebook-50 {
+    width: 50px;
+    height: 50px;
+    background-position: -5px -40px;
+}
+
+.sprite-icons8-google-plus-_-________-50 {
+    width: 50px;
+    height: 50px;
+    background-position: -5px -100px;
+}
+
+.sprite-icons8-instagram-50 {
+    width: 50px;
+    height: 50px;
+    background-position: -5px -160px;
+}
+
+.sprite-icons8-twitter-_-________-50 {
+    width: 50px;
+    height: 50px;
+    background-position: -5px -220px;
+}
+
+.sprite-icons8-undefined-50 {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -280px;
+}

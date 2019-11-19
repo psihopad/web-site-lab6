@@ -1,0 +1,185 @@
+header {
+	a {
+		text-decoration: none;
+		font-family: $font_family_1;
+		color: $color_2;
+		font-size: 25px;
+		font-weight: 400;
+		text-transform: uppercase;
+		letter-spacing: 0.63px;
+	}
+}
+.root__menu_top {
+	a {
+		font-size: 2vw;
+		font-weight: bold;
+		text-decoration: none;
+		color: $color_3;
+		letter-spacing: 1px;
+		font-family: $font_family_1;
+		font-weight: 400;
+		line-height: 60px;
+		&:hover {
+			color: $color_4;
+		}
+	}
+}
+.slider__text_top {
+	h1 {
+		font-size: 4.9vw;
+		line-height: 30px;
+		color: $color_5;
+		font-weight: initial;
+		font-family: $font_family_2;
+		letter-spacing: 1.8px;
+	}
+	h2 {
+		color: $color_2;
+		font-weight: initial;
+		font-family: $font_family_3;
+		font-size: 3.9vw;
+		line-height: 30px;
+		text-transform: uppercase;
+		letter-spacing: 1.2px;
+	}
+}
+.team__title {
+	text-align: center;
+	color: $color_6;
+	font-family: $font_family_3;
+	font-size: 40px;
+	line-height: 25.46px;
+	text-transform: uppercase;
+	letter-spacing: 1.8px;
+}
+.team__description {
+	text-align: center;
+	font-family: $font_family_4;
+	font-size: 20px;
+}
+.item__title {
+	text-align: center;
+	font-family: $font_family_4;
+	font-size: 2.8vw;
+	line-height: 25.46px;
+	letter-spacing: 0.9px;
+}
+.item__desc {
+	text-align: center;
+	font-family: $font_family_4;
+	font-size: 2vw;
+	line-height: 30px;
+	letter-spacing: 0.1px;
+}
+.menu__itemm {
+	p {
+		color: $color_7;
+		font-family: $font_family_1;
+		font-size: 1.5vw;
+		line-height: 20.82px;
+		letter-spacing: 0.6px;
+	}
+	a {
+		font-weight: bold;
+		text-decoration: none;
+		color: $color_7;
+		font-family: $font_family_1;
+		font-size: 1.2vw;
+		line-height: 20.82px;
+		letter-spacing: 0.6px;
+		&:hover {
+			color: $color_8;
+		}
+	}
+}
+.copyright__text {
+	text-align: center;
+	color: $color_9;
+	font-size: 1.2vw;
+}
+.counter__digits {
+	text-align: center;
+	color: $color_10;
+	font-family: $font_family_5;
+	font-weight: 700;
+	font-size: 55px;
+}
+.counter__text {
+	text-align: center;
+	color: $color_11;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 200;
+	font-size: 12px;
+}
+.contact__us {
+	font-size: 5vw;
+	text-transform: uppercase;
+	font-family: $font_family_6;
+	text-align: center;
+	color: $color_11;
+	letter-spacing: 1.2px;
+}
+.contact__us_description {
+	font-size: 1.8vw;
+	font-family: $font_family_6;
+	text-align: center;
+	color: $color_12;
+	letter-spacing: 0.5px;
+}
+.input {
+	input {
+		color: $color_12;
+	}
+}
+.input__group {
+	width: 48%;
+	border-bottom: 1px solid #999797;
+}
+textarea {
+	color: $color_12;
+}
+select {
+	color: $color_12;
+}
+.button {
+	button {
+		color: $color_11;
+	}
+}
+.about__block {
+	h2 {
+		text-align: center;
+		text-transform: uppercase;
+	}
+}
+.about__description {
+	text-align: center;
+	font-size: 2vw;
+	line-height: 30px;
+	letter-spacing: 0.5px;
+}
+.item__des {
+	text-align: center;
+	font-size: 1.4vw;
+	line-height: 30px;
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+}
+.galery__title {
+	text-align: center;
+	text-transform: uppercase;
+	font-family: $font_family_7;
+	color: $color_6;
+	font-size: 50px;
+	line-height: 15px;
+	text-transform: uppercase;
+	letter-spacing: 1.8px;
+}
+.galery__desc {
+	text-align: center;
+	font-size: 1.8vw;
+	letter-spacing: 0.8px;
+	line-height: 30px;
+}
+
